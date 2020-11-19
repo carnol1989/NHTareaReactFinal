@@ -1,0 +1,7 @@
+.masthead {
+  height: 275px;
+  background-image: url('https://terrigen-cdn-dev.marvel.com/content/prod/1x/characters_art_mas_dsk_01.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

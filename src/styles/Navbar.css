@@ -1,0 +1,14 @@
+.navbar-custom {
+  background-color: #252020;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: rgb(255, 255, 255);
+}
+.navbar-custom .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+  color: #ffffff;
+}
